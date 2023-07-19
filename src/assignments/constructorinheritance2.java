@@ -12,6 +12,7 @@ public class constructorinheritance2 extends constructor_inheritance {
 	public static void main(String[] args) {
 		
 		constructorinheritance2 c2=new constructorinheritance2();
+		c2.m1();
 		
 	}
 }

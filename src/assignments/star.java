@@ -26,6 +26,8 @@ public class star {
 		s1.m15();
 		s1.m19();
 		s1.p9();
+		s1.m20();
+		s1.m21();
 		
 		
 		
@@ -505,6 +507,36 @@ public class star {
 			}
 			}
 			
+			public static void m20()
+			{
+				int count=1;
+				
+				for(int i=1;i<=4;i++)
+				{
+					for(int j=1;j<=i;j++)
+					{
+						System.out.print(count+" ");
+						count++;
+					}
+					System.out.println();
+				}
+				
+			}
+			
+			public static void m21()
+			{
+				char ch='A';
+				
+				for(int i=1;i<=7;i++)
+				{
+					for(int j=1;j<=i;j++)
+					{
+						System.out.print(ch+" ");
+						ch++;
+					}
+					System.out.println();
+				}
+			}
 			
 				
 				

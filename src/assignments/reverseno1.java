@@ -1,6 +1,6 @@
 package assignments;
 
-public class reverseno {
+public class reverseno1 {
 
 	public static void main(String[] args) {
 		

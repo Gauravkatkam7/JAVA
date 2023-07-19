@@ -3,8 +3,8 @@ package dailypractice8;
 public class whileloop {
 
 	
-	public static void main(String[] args) {
-		
+	public static void main(String[] args) 
+	{
 		int i=100;
 		
 		while(i>=1)

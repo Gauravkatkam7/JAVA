@@ -8,8 +8,10 @@ public class staticglobal {
 		
 		System.out.println(i);
 		
+
 		staticglobal o1=new staticglobal();
-		System.out.println(o1.i);
+//		System.out.println(o1.i);
+		o1.m1();
 		
 		staticglobal1 o2=new staticglobal1();
 		System.out.println(o2.b);

@@ -6,6 +6,10 @@ public class constructor_inheritance {
 	constructor_inheritance()
 	{
 		num1=10;
-		System.out.println(num1*num1);
+		
+	}
+	public void m1()
+	{
+		System.out.println(num1);
 	}
 }

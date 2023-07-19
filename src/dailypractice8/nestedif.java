@@ -5,7 +5,7 @@ public class nestedif {
 
 	public static void main(String[] args) {
 		
-		int sa=600;
+		int sa=400;
 	      
 		if(sa>=500)
 		{
